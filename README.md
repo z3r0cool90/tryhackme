@@ -8,4 +8,4 @@ the CAPTCHA or the invalid logins, and after a lot of thought, I thought about c
 bruteforcing.
 
 ### `jpeg_extractor_from_pcap.py`
-Extracts JPEG images from a `.pcap` file using Python's re module for the TryHackme room "Security Footage".
+Extracts JPEG images from a `.pcap` file using Python's `re` module for the TryHackme room "Security Footage".
